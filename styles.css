@@ -13,7 +13,7 @@ background-repeat: no-repeat;
 background-position: top left;
 } */
 .hero{
-  background-image: url(/images/bg13.svg);
+  background-image: url('./images/bg13.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -55,7 +55,7 @@ html {
     transform:rotateY(20deg);
 }
 .feature{
-    background-image: url(/images/bg12.svg);
+    background-image: url('./images/bg12.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
